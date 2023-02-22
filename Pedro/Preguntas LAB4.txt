@@ -1,0 +1,14 @@
+
+When I create the units for hidden layers of Multy-Layers Percertron Neural Network model (MLP), do I need to zip them?
+
+For this Data sets, should I use regressors or classifiers? 
+
+Can I save the 2 different splits with different amount of features in a variable? 
+
+
+
+
+
+TO DO: 
+
+Crear una funcion que me indique cuales son los mejores scores cuando le paso varias hidden_layers or parameters 
