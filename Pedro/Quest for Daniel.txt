@@ -1,0 +1,9 @@
+
+
+1. When to use Regressors and classifiers?
+
+2. How do I compare the models? What should I consider, and what do I analyse? 
+
+3. How can do an evaluation of the whole model ?
+
+4. 

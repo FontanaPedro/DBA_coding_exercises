@@ -13,3 +13,18 @@ No, I need to re split the model, important to do the random state for that
 TO DO: 
 
 Crear una funcion que me indique cuales son los mejores scores cuando le paso varias hidden_layers or parameters 
+
+
+
+
+
+
+
+
+
+Is there over or underfitting? why? how do I define that? is always
+
+
+trainins accuracy is equal =1 ? differencia entre 
+
+When there is a big diff
