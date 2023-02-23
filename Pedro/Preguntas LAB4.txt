@@ -1,10 +1,11 @@
 
 When I create the units for hidden layers of Multy-Layers Percertron Neural Network model (MLP), do I need to zip them?
 
-For this Data sets, should I use regressors or classifiers? 
+For this Data sets, should I use regressors or classifiers? --> classifier = te da una probabilidad junto con la clase que te define. 
+                                                            --> regressors = te da un exacta clase pero sin ningúna probabilidad por atras. 
 
 Can I save the 2 different splits with different amount of features in a variable? 
-
+No, I need to re split the model, important to do the random state for that
 
 
 
