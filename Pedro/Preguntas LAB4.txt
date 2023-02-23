@@ -1,30 +1,50 @@
 
-When I create the units for hidden layers of Multy-Layers Percertron Neural Network model (MLP), do I need to zip them?
+Preguntas LAB 4: 
+
+
+When I create the units for hidden layers of Multy-Layers Percertron Neural Network model (MLP), do I need to zip them? 
+--> No, because Zip will consume too much CPU power
 
 For this Data sets, should I use regressors or classifiers? --> classifier = te da una probabilidad junto con la clase que te define. 
                                                             --> regressors = te da un exacta clase pero sin ningúna probabilidad por atras. 
 
 Can I save the 2 different splits with different amount of features in a variable? 
-No, I need to re split the model, important to do the random state for that
+--> No, I need to re split the model, important to do the random state for that
 
 
 
 
-TO DO: 
+Functions to do in order to save them in a doc: 
 
-Crear una funcion que me indique cuales son los mejores scores cuando le paso varias hidden_layers or parameters 
-
-
-
-
+- Graph different scores
+- Classifier regions 
+- Graph comparing different scores w/ different regularization coefficients 
 
 
 
+QUESTIONS FOR DANIEL LAB 4:
+
+1. When to use Regressors and classifiers in LAB 4? Is it only depending on the classes? 
+
+2. When I compare models, what should I consider appart from the score? 
+
+3. How do I improve the model if the regulariation coefficient is not helping? 
 
 
-Is there over or underfitting? why? how do I define that? is always
 
 
-trainins accuracy is equal =1 ? differencia entre 
+QUESTIONS TO ANSWER WHILE DOING THE LABS:
 
-When there is a big diff
+- Which output I am looking for? 
+
+- Is it a regression or classification problem? Whay would be the difference of applying both for the same problem? 
+
+- Trainins accuracy is equal =1 ? difference between the accuracy scores 
+
+- Is there over or underfitting? why? 
+
+- How can I improve the model? 
+
+- Compare different models  
+
+
