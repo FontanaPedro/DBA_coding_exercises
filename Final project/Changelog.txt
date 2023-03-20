@@ -1,0 +1,9 @@
+09/03/2022: (Pedro) 
+    DATA frame created - Start exploring the quality of the DATA 
+        - Change columns to english
+        - Read columns
+        - Counting N/A values
+
+
+09/03/2022: (Pedro) 
+    
